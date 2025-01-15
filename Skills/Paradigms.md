@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming h
-  - Imperative programming h
-  - Structured programming h
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
   - Non-structured programming
-  - Functional programming h
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming h
+  - Asynchronous programming: 👂 heard
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -28,7 +28,7 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new` h
+  - Operator `new`: 👂 heard
   - Static method
   - Method
   - Async method
@@ -64,7 +64,7 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton k
+  - Singleton: 🎓 known
   - Factory Method
   - Abstract Factory
   - Adapter
@@ -74,7 +74,7 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator h
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder

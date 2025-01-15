@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop h
-  - `try..catch` h
+  - Event loop: 👂 heard
+  - `try..catch`: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,17 +22,17 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks h
+  - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
-  - Promise h
-  - Async/await h
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event h
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
   - Signal

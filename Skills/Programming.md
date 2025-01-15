@@ -4,65 +4,65 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm u
-  - Syntax u
-  - Semantics u
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🖐️ used
   - Abstraction
-  - Paradigm h
-  - Programm u
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
   - Programming paradigm
-  - Programming language h
+  - Programming language: 👂 heard
   - Contract
   - Module
-  - Library u
+  - Library: 🖐️ used
   - Package
   - Component
-  - Framework h
+  - Framework: 👂 heard
   - Platform
   - Source code
   - Object code
   - Machine code
   - Microcode
-  - Software engineering h
-  - Decomposition u
+  - Software engineering: 👂 heard
+  - Decomposition: 🖐️ used
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
-  - Don't repeat yourself (DRY) u
-  - KISS principle k
+  - Don't repeat yourself (DRY): 🖐️ used
+  - KISS principle: 🎓 known
 - Syntax and concepts
-  - Value u
-  - Identifier h
-  - Variable u
-  - Constant u
+  - Value: 🖐️ used
+  - Identifier: 👂 heard
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
-  - Literal u
-  - Expression u
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function u
-  - Procedure h
-  - Method u
-  - Class h
+  - Function: 🖐️ used
+  - Procedure: 👂 heard
+  - Method: 🖐️ used
+  - Class: 👂 heard
   - Prototype
-  - Event h
+  - Event: 👂 heard
   - Type
-  - Flag h
-  - Lexical scope h
+  - Flag: 👂 heard
+  - Lexical scope: 👂 heard
   - Code block
-  - Conditions u
-  - Loops u
-  - Assignment u
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
   - Regular expression
   - Interface
   - Namespaces
-  - Call stack h
-  - Naming conventions u
+  - Call stack: 👂 heard
+  - Naming conventions: 🖐️ used
   - Coding conventions
-  - Camel case u
-  - Snake case u
-  - Kebab case u
-  - Trailing commas h
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
+  - Trailing commas: 👂 heard
   - Return early
   - Fail-fast
 - Types
@@ -81,22 +81,22 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature h
-  - Argument h
-  - Parameter h
+  - Signature: 👂 heard
+  - Argument: 👂 heard
+  - Parameter: 👂 heard
   - Pure function
-  - Lambda expression h
+  - Lambda expression: 👂 heard
   - Side effects
-  - Closure h
+  - Closure: 👂 heard
   - Partial application
   - Currying
   - Higher order
-  - Recursion h
+  - Recursion: 👂 heard
   - Tail call optimisation
-  - Callback h
-  - Listener h
-  - Composition h
-  - Pipe h
+  - Callback: 👂 heard
+  - Listener: 👂 heard
+  - Composition: 👂 heard
+  - Pipe: 👂 heard
   - Memoize
   - Wrapper
   - Functor
@@ -105,30 +105,30 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
-  - Structure u
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
   - Record
   - Enum
   - Instance
-  - Object h
-  - Collection h
-  - Set u
-  - Hash table h
-  - Linked list h
+  - Object: 👂 heard
+  - Collection: 👂 heard
+  - Set: 🖐️ used
+  - Hash table: 👂 heard
+  - Linked list: 👂 heard
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue h
-  - Stack h
+  - Queue: 👂 heard
+  - Stack: 👂 heard
   - Deque
   - Tree
-  - Graph h
-  - Iterator h
+  - Graph: 👂 heard
+  - Iterator: 👂 heard
   - Mutable state
   - Immutable state
   - Serialization
   - String parsing
-  - JSON h
+  - JSON: 👂 heard
   - JSON5
   - YAML
 - Networking
@@ -153,40 +153,40 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine h
+  - Virtual machine: 👂 heard
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger u
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring u
-  - Code review h
+  - Refactoring: 🖐️ used
+  - Code review: 👂 heard
   - Exception
   - Unittesting
-  - git h
-  - Github u
+  - git: 👂 heard
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers k
-  - Hard code k
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
   - Soft code
-  - Cryptic code k
+  - Cryptic code: 🎓 known
   - Improbability factor
   - Accidental complexity
   - Action at a distance
   - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code k
+  - Dead code: 🎓 known
   - Unreachable code
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops k
+  - Nested loops: 🎓 known
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux h
-  - Unix h
+  - Linux: 👂 heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS u
-  - Windows u
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -229,7 +229,7 @@
   - IANA
   - IEEE
   - Base64
-  - ECMA k
+  - ECMA: 🎓 known
   - ICANN
   - ISO
   - MIME
