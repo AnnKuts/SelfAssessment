@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Separation of concerns
+  - Separation of concerns h
   - Inversion of Control
   - Dependency Injection
   - GoF Creational
@@ -50,7 +50,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML u
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -75,10 +75,10 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds h
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code h
+  - No-code h
   - Metric
   - Metric abuse
   - ACID
@@ -90,7 +90,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope h
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
