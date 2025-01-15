@@ -11,7 +11,7 @@
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language h
   - Contract
   - Module
   - Library
@@ -164,8 +164,8 @@
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git h
+  - Github u
   - Docker
   - Kubernetes
   - GCC
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
+  - Linux h
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS u
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards

@@ -2,12 +2,12 @@
 
 - Language
   - `Object`
-  - `Function`
+  - `Function` h
   - `Boolean`
-  - `Number`
+  - `Number` h
   - `BigInt`
-  - `String`
-  - `Symbol`
+  - `String` h
+  - `Symbol` h
   - `Infinity`
   - `NaN`
   - `undefined`
@@ -59,8 +59,8 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
+  - `if` h
+  - `while` h
   - `do..while`
   - `for`
   - `for..in`
